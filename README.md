@@ -1,1 +1,1 @@
-0. Where am I Tash
+1. a script that creates an alias
